@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio and FYCS Study Hub.<br><br>👯 I’m looking to collaborate on beginner web dev projects.<br><br>🤝 I’m looking for help with layout designs and Firebase.<br><br>🌱 I’m currently learning HTML, CSS, JS, and C++.<br><br>💬 Ask me about FYCS, web dev or Vibe Coding.<br><br>⚡ Fun fact: I Uses My Own Creativity For Building A Project.
+🔭 I’m currently working on my Jarvis and BNN CS Study Hub.<br><br>👯 I’m looking to collaborate on beginner web dev projects.<br><br>🤝 I’m looking for help with layout designs and Firebase.<br><br>🌱 I’m currently learning HTML, CSS, JS, and C++.<br><br>💬 Ask me about FYCS, web dev or Vibe Coding.<br><br>⚡ Fun fact: I Uses My Own Creativity For Building A Project.
 
 
 ## 🌐 Socials:
