@@ -1,14 +1,18 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Rishikesh%20Sahu&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Building%20Jarvis%20%26%20BNN%20CS%20Study%20Hub&descAlignY=55&descSize=18)](https://github.com/rishiuttamsahu-lang)
+[![](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20👋%2C%20I'm%20Rishikesh%20Sahu&fontSize=38&fontColor=7DD3FC&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Building%20Jarvis%20%26%20BNN%20CS%20Study%20Hub&descAlignY=58&descSize=18&descColor=ffffff)](https://github.com/rishiuttamsahu-lang)
 
 <p align="center">
   <a href="https://github.com/rishiuttamsahu-lang">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+at+BNN+College;Building+BNN+CS+STUDY+HUB;Building+Jarvis+%E2%80%94+a+personal+AI+assistant;React+%7C+Firebase+%7C+Java+%7C+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=CS+Student+at+BNN+College;Building+BNN+CS+STUDY+HUB;Building+Jarvis+%E2%80%94+a+personal+AI+assistant;Voice+%7C+Automation+%7C+Live+Data+%7C+AI;React+%7C+Firebase+%7C+Java+%7C+Next.js" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishiuttamsahu-lang&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rishiuttamsahu-lang?label=Followers&style=flat&color=7dd3fc" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=rishiuttamsahu-lang&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rishiuttamsahu-lang?label=Followers&style=for-the-badge&color=7dd3fc" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
 ---
