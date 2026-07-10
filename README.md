@@ -46,7 +46,7 @@ const rishikesh = {
 
 BNN CS STUDY HUB is a modern, mobile-first web application designed to help Computer Science students access study materials — notes, practicals, PYQs, and assignments — organized by semester and subject. It features Google Authentication, an admin panel for uploading materials, an AI assignment assistant, and real-time visitor analytics powered by Firebase.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishiuttamsahu-lang&repo=BNN-CS-STUDY-HUB&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/rishiuttamsahu-lang/BNN-CS-STUDY-HUB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishiuttamsahu-lang&repo=FYCS-Study-Hub&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/rishiuttamsahu-lang/FYCS-Study-Hub)
 
 | Layer      | Technology                     |
 |------------|---------------------------------|
@@ -55,7 +55,7 @@ BNN CS STUDY HUB is a modern, mobile-first web application designed to help Comp
 | Backend    | Firebase (Firestore, Hosting)   |
 | Extras     | AI Assignment Assistant, Real-time Analytics |
 
-**[🔗 Live](https://fycs-study-hub.vercel.app/)** &nbsp;•&nbsp; **[💻 Code](https://github.com/rishiuttamsahu-lang)**
+**[🔗 Live](https://fycs-study-hub.vercel.app/)** &nbsp;•&nbsp; **[💻 Code](https://github.com/rishiuttamsahu-lang/FYCS-Study-Hub)**
 
 ---
 
