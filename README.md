@@ -32,13 +32,13 @@
 
 ### 🚀 Featured Projects
 
-#### 📚 BNN CS STUDY HUB
+#### <img src="https://raw.githubusercontent.com/rishiuttamsahu-lang/FYCS-Study-Hub/main/public/favicon.png" width="28" height="28" style="vertical-align:middle; border-radius:6px;"/> BNN CS STUDY HUB
 
 <table>
 <tr>
 <td width="50%">
 <a href="https://github.com/rishiuttamsahu-lang">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishiuttamsahu-lang&repo=FYCS-Study-Hub&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="BNN CS STUDY HUB"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishiuttamsahu-lang&repo=BNN-CS-STUDY-HUB&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="BNN CS STUDY HUB"/>
 </a>
 </td>
 <td width="50%">
