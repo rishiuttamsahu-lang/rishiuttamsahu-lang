@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Rishikesh%20Sahu&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Building%20Jarvis%20%26%20BNN%20CS%20Study%20Hub&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Rishikesh%20Sahu&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Building%20Jarvis%20and%20BNN%20CS%20Study%20Hub&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/rishiuttamsahu-lang">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Jarvis+-+My+Own+AI+Assistant;Building+BNN+CS+STUDY+HUB;Learning+HTML%2C+CSS%2C+JS+%26+React;Open+to+Beginner+Web+Dev+Collabs;Ask+me+about+FYCS%2C+Web+Dev+or+Vibe+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Jarvis+-+My+Own+AI+Assistant;Building+BNN+CS+STUDY+HUB;Learning+HTML%2C+CSS%2C+JS+and+React;Open+to+Beginner+Web+Dev+Collabs;Ask+me+about+FYCS%2C+Web+Dev+or+Vibe+Coding" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=rishiuttamsahu-lang&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
