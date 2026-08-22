@@ -38,7 +38,7 @@
 <tr>
 <td width="50%">
 <a href="https://github.com/rishiuttamsahu-lang">
-  <img src="https://raw.githubusercontent.com/rishiuttamsahu-lang/FYCS-Study-Hub/main/public/favicon.png" alt="FYCS Study Hub" width="150" />
+  <img src="https://fycs-study-hub.vercel.app/favicon.png" alt="FYCS Study Hub" width="150" />
 </td>
 <td width="50%">
 
