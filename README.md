@@ -32,13 +32,13 @@
 
 ### 🚀 Featured Projects
 
-#### <img src="https://raw.githubusercontent.com/rishiuttamsahu-lang/FYCS-Study-Hub/main/public/favicon.png" width="28" height="28" style="vertical-align:middle; border-radius:6px;"/> BNN CS STUDY HUB
+#### <img src="https://fycs-study-hub.vercel.app/favicon.png" width="28" height="28" style="vertical-align:middle; border-radius:6px;"/> BNN CS STUDY HUB
 
 <table>
 <tr>
 <td width="50%">
 <a href="https://github.com/rishiuttamsahu-lang">
-  <img src="https://fycs-study-hub.vercel.app/favicon.png" alt="FYCS Study Hub" width="150" />
+  <img src="https://i.ibb.co/tP131p0w/Screenshot-2026-08-22-102217.png" alt="FYCS Study Hub" width="150" />
 </td>
 <td width="50%">
 
