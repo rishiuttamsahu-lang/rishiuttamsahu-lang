@@ -62,7 +62,7 @@ BNN CS STUDY HUB is a modern, mobile-first web app for CS students to access not
 <tr>
 <td width="50%">
 
-<img src="https://ibb.co/rBqdy39" wight="100%" />
+<img src="https://i.ibb.co/yzK4sp2/Screenshot-2026-08-22-103013.png" alt="Jarvis InterFace" width="100%" height="100%" />
 
 </td>
 <td width="50%">
