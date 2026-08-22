@@ -38,7 +38,7 @@
 <tr>
 <td width="50%">
 <a href="https://github.com/rishiuttamsahu-lang">
-  <img src="https://i.ibb.co/tP131p0w/Screenshot-2026-08-22-102217.png" alt="FYCS Study Hub" width="150" />
+  <img src="https://i.ibb.co/tP131p0w/Screenshot-2026-08-22-102217.png" alt="FYCS Study Hub" width="100%" height="100%" />
 </td>
 <td width="50%">
 
