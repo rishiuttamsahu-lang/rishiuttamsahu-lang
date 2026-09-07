@@ -1,136 +1,200 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060d,50:5b21b6,100:0891b2&height=190&section=header&text=Rishikesh%20Sahu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Full-Stack%20Developer&descAlignY=63&descSize=16" width="100%"/>
+  <!-- Animated Header Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=220&section=header&text=BNN%20CS%20STUDY%20HUB&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Live%20Showcase%20%7C%20Architecture%20%26%20Interactive%20Preview&descAlignY=58&descSize=18" width="100%" alt="Project Header" />
 
-<a href="https://github.com/rishiuttamsahu-lang">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+products+end-to-end%2C+from+idea+to+deploy;Currently+shipping+Jarvis+-+a+personal+AI+assistant;Currently+building+a+study+portal+for+my+college;React+%C2%B7+Firebase+%C2%B7+Python+%C2%B7+Cloudflare+Workers" alt="Typing SVG"/>
-</a>
+  <!-- Dynamic Typing AnimatioAn -->
+  <a href="https://fycs-study-hub.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=⚡+Modern+Full-Stack+Web+Application;🎨+Mobile-First+Responsive+UI+%7C+Tailwind+CSS;🤖+AI+Assignment+Assistant+%26+Visitor+Analytics;🔒+Source+Code+Private+%7C+IP+Protected+Showcase" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Top Badges Row -->
+  <p align="center">
+    <a href="https://fycs-study-hub.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+    <img src="https://img.shields.io/badge/Security-Protected_IP-10b981?style=for-the-badge&logo=githubactions&logoColor=white" alt="Security" />
+    <img src="https://img.shields.io/badge/Status-Shipped_&_Active-38bdf8?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Source_Code-Private_🔒-ef4444?style=for-the-badge&logo=lock&logoColor=white" alt="Private Repo" />
+  </p>
+
+  <p align="center">
+    <a href="#-interactive-preview">Live Preview</a> •
+    <a href="#-core-features">Features</a> •
+    <a href="#%EF%B8%8F-system-architecture">Architecture</a> •
+    <a href="#-tech-stack">Tech Stack</a> •
+    <a href="#-intellectual-property--code-access-policy">Recruiter Code Access</a> •
+    <a href="#-author--contact">Contact</a>
+  </p>
 
 </div>
 
-<br/>
+---
 
-I build and ship working software rather than tutorials — a study platform used by my own classmates, a community system for my neighborhood's Ganpati festival committee, and a personal AI assistant I run and improve every day. I care about clean architecture, mobile-first UX, and shipping on a student budget without cutting corners on security.
+## 🌟 Overview
 
-<br/>
+**BNN CS Study Hub** is a modern, high-performance academic ecosystem designed for Computer Science students. It eliminates the chaos of scattered notes and outdated files by providing semester-wise curated study resources, practical code snippets, previous year question papers (PYQs), and real-time AI assistance—all wrapped in a clean, distraction-free UI.
 
-## Stack
+> [!NOTE]
+> **Showcase Edition:** This repository serves as a **Public Architecture & Product Showcase**. The production source code is stored safely in a private repository to prevent unauthorized plagiarism, replication, and intellectual property theft.
 
-**Languages**
+---
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts" />
+## 🖥️ Interactive Preview
 
-**Frontend**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind" />
+  ### 🔗 [👉 Click Here to Launch Live Application 👈](https://fycs-study-hub.vercel.app/)
 
-**Backend, Cloud & Tools**
+  <br/>
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,cloudflare,git,github,vercel,androidstudio" />
+  <!-- High-Res Preview / Demo GIF Frame -->
+  <a href="https://fycs-study-hub.vercel.app/" target="_blank">
+    <img src="https://github.com/rishiuttamsahu-lang/rishiuttamsahu-lang/blob/main/bnn-cs-study-hub.png?raw=true" 
+         alt="BNN CS Study Hub Preview" 
+         width="92%" 
+         style="border-radius: 12px; box-shadow: 0 10px 30px -10px rgba(56, 189, 248, 0.4); border: 1px solid #38bdf8;" />
+  </a>
+  
+  <p><em>💡 Replace with a 10-second GIF showing seamless navigation and live features.</em></p>
 
-<br/>
+</div>
 
-## Selected Work
+---
+
+## ✨ Core Features
 
 <table>
-<tr>
-<th align="left" width="22%">Project</th>
-<th align="left" width="48%">Description</th>
-<th align="left" width="30%">Stack</th>
-</tr>
-
-<tr>
-<td>
-<b>BNN CS Study Hub</b><br/>
-<a href="https://fycs-study-hub.vercel.app">Live</a> · <a href="https://github.com/rishiuttamsahu-lang">Source</a>
-</td>
-<td>Mobile-first study portal for CS classmates — notes, PYQs, and assignments organized by semester, with Google sign-in, an admin panel, and a Telegram bot for uploads.</td>
-<td>React · Firebase · Capacitor</td>
-</tr>
-
-<tr>
-<td>
-<b>Siyaram Mitra Mandal</b><br/>
-<a href="https://siyaram-mitra-mandal.vercel.app">Live</a> · <a href="https://github.com/rishiuttamsahu-lang">Source</a>
-</td>
-<td>Community platform for a Ganpati festival committee — member and finance management, a "Paisa Kahan Gaya" transparency dashboard, and a Telegram / WhatsApp bot on Cloudflare Workers.</td>
-<td>Next.js · Firebase · Cloudflare Workers</td>
-</tr>
-
-<tr>
-<td>
-<b>Jarvis</b><br/>
-<a href="https://github.com/rishiuttamsahu-lang">Source</a>
-</td>
-<td>A personal AI assistant on the Gemini Live API — voice control, screen vision, live browser automation, and a rolling conversational memory.</td>
-<td>Python · FastAPI · React</td>
-</tr>
-
-<tr>
-<td>
-<b>ChromaGrab</b><br/>
-<a href="https://chroma-grab.vercel.app">Live</a> · <a href="https://github.com/rishiuttamsahu-lang/color-picker">Source</a>
-</td>
-<td>Privacy-first color picker — sample any pixel from an image, a clipboard paste, or the native screen eyedropper, and copy it as HEX, RGBA, HSL, or Tailwind.</td>
-<td>Next.js · TypeScript</td>
-</tr>
-
-<tr>
-<td>
-<b>NanoCrush</b><br/>
-<a href="https://nanocrush.vercel.app">Live</a> · <a href="https://github.com/rishiuttamsahu-lang/compact-files">Source</a>
-</td>
-<td>Free PDF and image compressor — shrinks files up to 80% entirely in the browser, no sign-up, no server upload.</td>
-<td>React · Vite</td>
-</tr>
-
-<tr>
-<td>
-<b>DUALVISION Studio</b><br/>
-<a href="https://github.com/rishiuttamsahu-lang/yt-dj-mix">Source</a>
-</td>
-<td>A dual-deck video comparison player and DJ-style audio mixer with a tactile crossfader, built for editors and remixers.</td>
-<td>React · TypeScript · Zustand</td>
-</tr>
-
+  <tr>
+    <td width="50%">
+      <h3>📚 Smart Resource Engine</h3>
+      <ul>
+        <li>Organized by Semester, Subject, and Modules.</li>
+        <li>Curated practical code, notes, and downloadable PYQs.</li>
+        <li>Instant search and category-based filter tags.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Assignment Assistant</h3>
+      <ul>
+        <li>Integrated AI helper for debugging and query breakdown.</li>
+        <li>Context-aware guidance tailored for CS syllabus.</li>
+        <li>Clean response formatting with code highlights.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔐 Admin & Secure Auth</h3>
+      <ul>
+        <li>Google OAuth 2.0 single-sign-on integration.</li>
+        <li>Protected admin dashboard for resource publishing.</li>
+        <li>Role-based access management.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>📈 Real-Time Telemetry</h3>
+      <ul>
+        <li>Live visitor and download analytics powered by Firebase.</li>
+        <li>Optimized client-side caching for zero latency.</li>
+        <li>Mobile-first responsive fluid layout across devices.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-<div align="right"><sub><a href="https://github.com/rishiuttamsahu-lang?tab=repositories">More repositories →</a></sub></div>
+---
+
+## 🛠️ System Architecture
+
+```mermaid
+graph TD
+    A[Student / Client Browser] -->|Vercel Edge Network| B[React + Tailwind Frontend]
+    B -->|Authentication| C[Google OAuth via Firebase Auth]
+    B -->|Real-time Data & Analytics| D[(Firebase Firestore DB)]
+    B -->|Cloud Asset Storage| E[Cloud Storage CDN]
+    B -->|AI Helper Queries| F[AI Engine API]
+    G[Admin Console] -->|Managed Access| D
+```
+
+<details>
+<summary><b>🔍 Click to expand Architecture & Tech Layer Breakdown</b></summary>
+<br/>
+
+| Layer | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Frontend Framework** | `React.js` | Component-based, lightning fast UI rendering |
+| **Styling & Design** | `Tailwind CSS` | Modern responsive dark-mode styling with custom design tokens |
+| **State & Data Fetching** | `Custom React Hooks` | Synchronized Firestore real-time listeners |
+| **Authentication** | `Firebase Auth` | Secure Google sign-in & JWT handling |
+| **Database & Analytics** | `Cloud Firestore` | Low-latency NoSQL database for real-time analytics & resources |
+| **Hosting & CDN** | `Vercel Edge` | Global edge distribution with SSL & auto-caching |
+
+</details>
+
+---
+
+## 💻 Tech Stack & Tooling
+
+<div align="center">
+
+| Category | Technologies Used |
+| :--- | :--- |
+| **Core & Languages** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Frontend UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 <br/>
 
-## GitHub Metrics
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,vercel" alt="Tech Stack Icons" />
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rishiuttamsahu-lang&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rishiuttamsahu-lang&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=6D28D9&icon_color=0891B2&text_color=24292F" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rishiuttamsahu-lang&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=0891B2&text_color=24292F" width="48%"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rishiuttamsahu-lang&hide_border=true&background=00000000&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rishiuttamsahu-lang&hide_border=true&background=00000000&ring=6D28D9&fire=0891B2&currStreakLabel=6D28D9&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606a" />
-  <img src="https://streak-stats.demolab.com/?user=rishiuttamsahu-lang&hide_border=true" width="48%"/>
-</picture>
-</p>
+</div>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiuttamsahu-lang&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiuttamsahu-lang&layout=compact&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=24292F" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiuttamsahu-lang&layout=compact&hide_border=true" width="38%"/>
-</picture>
-</p>
+---
+
+## 🔒 Intellectual Property & Code Access Policy
+
+> [!IMPORTANT]
+> ### 🛡️ Notice for Public Visitors & Fellow Developers
+> The underlying source code for this project contains custom algorithms, database rules, and proprietary design implementations. To prevent unauthorized replication, source code cloning, and academic plagiarism, **this repository is maintained as a closed-source showcase**.
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│  💼 FOR RECRUITERS, HIRING MANAGERS & TECHNICAL EVALUATORS             │
+│                                                                        │
+│  I actively welcome technical evaluation of my coding standards!       │
+│  If you are evaluating my profile for internships or software roles,  │
+│  I will gladly:                                                        │
+│                                                                        │
+│  1. Grant private repository read access to your GitHub account.       │
+│  2. Conduct a live architecture & code walkthrough over Google Meet.   │
+│                                                                        │
+│  📩 Reach out directly: rishiuttamsahu@gmail.com                       │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 👨‍💻 Author & Connect
+
+<div align="center">
+
+### **Rishikesh Sahu**
+*Computer Science Student • Passionate Developer & Builder*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh_Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi84/)
+[![Email](https://img.shields.io/badge/Email-rishiuttamsahu@gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishiuttamsahu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rishiuttamsahu--lang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishiuttamsahu-lang)
+[![Instagram](https://img.shields.io/badge/Instagram-@itz__rishi__8468-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_rishi_8468/)
 
 <br/>
 
-## Connect
+<!-- Animated Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0284c7,100:0f172a&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rishi84/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-<a href="mailto:rishiuttamsahu@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
-<a href="https://www.instagram.com/itz_rishi_8468/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=A78BFA" /></a>
-<a href="https://github.com/rishiuttamsahu-lang"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
-</p>
+<p align="center">⭐ If you found this showcase inspiring, consider giving this repository a star!</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:5b21b6,100:05060d&height=100&section=footer" width="100%"/>
+</div>
